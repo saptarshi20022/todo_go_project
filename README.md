@@ -17,10 +17,4 @@ A simple and efficient command-line todo application built with Golang, designed
 ✅ Simple and intuitive CLI interface  
 
 ---
-
-## 🚀 Installation  
-
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/todo-cli.git  
-   cd todo-cli  
+ 
